@@ -18,9 +18,9 @@ A responsive and user-friendly web-based admin panel developed using **PHP**, **
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, Bootstrap 5
-- **Backend**: PHP 8+
-- **Database**: MySQL
-- **Server**: Apache / XAMPP / WAMP
+- **Backend**: PHP 
+- **Database**: SQL
+- **Server**: XAMPP
 
 ---
 
