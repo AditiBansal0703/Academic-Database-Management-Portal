@@ -1,0 +1,42 @@
+/* assets/style.css */
+
+body {
+  background: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin-top: 40px;
+}
+
+h2 {
+  margin-bottom: 25px;
+  color: #343a40;
+}
+
+.table th {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn {
+  border-radius: 5px;
+}
+
+.form-control {
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.btn-success {
+  background-color: #28a745;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
