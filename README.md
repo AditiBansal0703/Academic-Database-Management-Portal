@@ -1,6 +1,6 @@
 # 📚 Academic Database Management Portal
 
-A responsive and user-friendly web-based admin panel developed using **PHP**, **MySQL**, and **Bootstrap 5**, designed to manage and maintain academic records across multiple interconnected tables such as Students, Mentors, Internships, Projects, Trainings, and more.
+A responsive and user-friendly web-based admin panel developed using **MySQL**, and **Bootstrap 5**, designed to manage and maintain academic records across multiple interconnected tables such as Students, Mentors, Internships, Projects, Trainings, and more.
 
 ---
 
